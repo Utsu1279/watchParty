@@ -1,0 +1,15 @@
+{
+  "name": "watchparty-socket-server",
+  "version": "1.0.0",
+  "description": "Socket.io backend for watch party sync",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "socket.io": "^4.7.2"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
